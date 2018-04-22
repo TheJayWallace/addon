@@ -1,1 +1,1 @@
-# addon
+# This will be my first written addon for WoW in an effort to teach myself LUA
